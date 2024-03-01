@@ -1,2 +1,2 @@
-streamlit==1.00.0
-streamlit_option_menu==1.0.0
+streamlit
+streamlit_option_menu
